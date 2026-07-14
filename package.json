@@ -1,0 +1,12 @@
+{
+  "name": "cache-warmer-808fc5",
+  "version": "1.0.0",
+  "description": "A cache warmer utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["cache-warmer", "utility"],
+  "license": "MIT"
+}
